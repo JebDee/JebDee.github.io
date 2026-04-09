@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "project",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph (Jeb) Dee",
+    "section": "",
+    "text": "I grew up in the Greater Boston area. It taught me early the value of competition and discipline. At Lawrence University, I study quantitative economics and history, with a minor in statistics and data science. As vice president of the student investment fund, I work on risk management and help fellow students build stock proposals that can stand up to scrutiny. It has taught me patience, humility, and empathy.\nI am a graduate of Northfield Mount Hermon School in Massachusetts and a member of the Lawrence University hockey team. Those experiences have shaped the way I think: stay composed, do the work, and trust preparation when the moment comes. I am drawn to difficult questions, to making sense of moving parts, and to understanding how larger forces shape individual lives. That interest is what ties together my work in economics, history, and data."
   }
 ]
