@@ -2,4 +2,55 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+I grew up in the Greater Boston area and am currently a student at Lawrence University, where I study quantitative economics and history, with a minor in statistics and data science.
+
+Outside the classroom, I founded the Lawrence University Investment Club and have served as both Vice President and President, where I focus on risk management and help peers build rigorous stock proposals. I am also a member of the Lawrence University hockey team and a graduate of Northfield Mount Hermon School.
+
+My interests sit at the intersection of data, economics, and history. I am drawn to social questions and to understanding how larger forces shape individual outcomes.
+
+---
+
+## Skills & Coursework
+
+**Economics & Finance**
+- Quantitative Economics
+- Financial Markets & Investment Analysis
+- Econometrics
+
+**History**
+- American History
+- Economic History
+- European History
+- Historical Research & Writing
+
+**Data & Statistics**
+- Statistics & Data Science (minor)
+- R, Python, Excel
+- Data visualization and regression modeling
+
+---
+
+## Resume
+
+📄 [Download my Resume](resume.pdf)
+
+> *(Upload your resume as `resume.pdf` into the root project folder and this link will work automatically)*
+
+---
+
+## Projects
+
+Here are a few selected projects. See the [Projects page](Projects.qmd) for more.
+
+- 📊 [Project 1 Title](Projects.qmd)
+- 📈 [Project 2 Title](Projects.qmd)
+
+---
+
+## Contact
+
+- 📧 Email: [jebdee20@gmail.com](mailto:jebdee20@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/JebDee](https://www.linkedin.com/in/jeb-dee)
+- 🐙 GitHub: [github.com/JebDee](https://github.com/JebDee)

@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I grew up in the Greater Boston area and am currently a student at Lawrence University, where I study quantitative economics and history, with a minor in statistics and data science.\nOutside the classroom, I founded the Lawrence University Investment Club and have served as both Vice President and President, where I focus on risk management and help peers build rigorous stock proposals. I am also a member of the Lawrence University hockey team and a graduate of Northfield Mount Hermon School.\nMy interests sit at the intersection of data, economics, and history. I am drawn to social questions and to understanding how larger forces shape individual outcomes."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,40 @@
     "title": "Joseph (Jeb) Dee",
     "section": "",
     "text": "I grew up in the Greater Boston area. It taught me early the value of competition and discipline. At Lawrence University, I study quantitative economics and history, with a minor in statistics and data science. As vice president of the student investment fund, I work on risk management and help fellow students build stock proposals that can stand up to scrutiny. It has taught me patience, humility, and empathy.\nI am a graduate of Northfield Mount Hermon School in Massachusetts and a member of the Lawrence University hockey team. Those experiences have shaped the way I think: stay composed, do the work, and trust preparation when the moment comes. I am drawn to difficult questions, to making sense of moving parts, and to understanding how larger forces shape individual lives. That interest is what ties together my work in economics, history, and data."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in the Greater Boston area and am currently a student at Lawrence University, where I study quantitative economics and history, with a minor in statistics and data science.\nOutside the classroom, I founded the Lawrence University Investment Club and have served as both Vice President and President, where I focus on risk management and help peers build rigorous stock proposals. I am also a member of the Lawrence University hockey team and a graduate of Northfield Mount Hermon School.\nMy interests sit at the intersection of data, economics, and history. I am drawn to social questions and to understanding how larger forces shape individual outcomes."
+  },
+  {
+    "objectID": "about.html#skills-coursework",
+    "href": "about.html#skills-coursework",
+    "title": "About",
+    "section": "Skills & Coursework",
+    "text": "Skills & Coursework\nEconomics & Finance - Quantitative Economics - Financial Markets & Investment Analysis - Econometrics\nHistory - American History - Economic History - European History - Historical Research & Writing\nData & Statistics - Statistics & Data Science (minor) - R, Python, Excel - Data visualization and regression modeling"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About",
+    "section": "Resume",
+    "text": "Resume\n📄 Download my Resume\n\n(Upload your resume as resume.pdf into the root project folder and this link will work automatically)"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About",
+    "section": "Projects",
+    "text": "Projects\nHere are a few selected projects. See the Projects page for more.\n\n📊 Project 1 Title\n📈 Project 2 Title"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\n📧 Email: jebdee20@gmail.com\n💼 LinkedIn: linkedin.com/in/JebDee\n🐙 GitHub: github.com/JebDee"
   }
 ]
