@@ -5,21 +5,19 @@ project:
 website:
   title: "Jeb Dee"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Projects.qmd
-      - href: activities.qmd
+      - href: about.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+      - href: Activities.qmd
         text: Activities
-        
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false

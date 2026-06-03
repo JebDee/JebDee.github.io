@@ -11,8 +11,6 @@ format:
 
 Built an R package for comparable company analysis. Reads valuation data from Excel, computes trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics across a peer group of firms.
 
-
-
 [View on GitHub →](https://github.com/ADC-405-S26/CompMod)
 :::
 
@@ -21,8 +19,6 @@ Built an R package for comparable company analysis. Reads valuation data from Ex
 *Team Project · Data Science*
 
 Used SQL to query and analyze structured datasets, joining across multiple tables to extract and summarize key insights from large data sources.
-
-
 
 [View on GitHub →](https://github.com/ADC-405-S26/Project_2_SQL_Team_13)
 :::
@@ -33,28 +29,33 @@ Used SQL to query and analyze structured datasets, joining across multiple table
 
 Applied NLP techniques including tokenization and sentiment analysis to real-world text data, visualizing patterns and drawing meaningful conclusions.
 
-
-
 [View on GitHub →](https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_13)
 :::
 
 ::: project-card
 ### "Fading Before the Eye" — Harrison Symposium Paper
-
+*Research Paper · History · Presented at the Harrison Symposium, 2026*
 
 Presented at Lawrence University's Harrison Symposium. This paper examines the North, Central and South American Exposition of 1885–1886 in New Orleans, arguing that the promise of the New South never reached the city. Drawing on railroad promotional literature, newspaper archives, and historical scholarship, the paper shows how the Illinois Central Railroad used Civil War memory and erased racial history to market New Orleans to northern investors — and why it failed.
-
-
 
 [Download Paper →](Papers/Fading_Before_the_Eye_Final.docx)
 :::
 
 ::: project-card
 ### "Installment and Escape Plans" — History Podcast Script
-
+*Podcast Script · History 246*
 
 Written to accompany an actual podcast episode, this script tells the story of Harry Faulkner Irvine — a traveling cash register salesman convicted of embezzlement in London in 1904. Through his story, the piece explores how immigration, labor, and class collided in the transatlantic commercial world of the early twentieth century. Five days after his release from prison, Irvine boarded the Carpathia — the same ship that would later rescue Titanic survivors.
 
-
 [Download Script →](Papers/Final Podcast Script Harry Irvine(1).docx)
+:::
+
+::: project-card
+### Personal Website
+*Quarto Website · Data Science*
+
+Designed and built a personal portfolio website using Quarto and R. The site showcases academic work, data science projects, and professional background. Built with a custom dark navy theme, styled entirely in CSS, and deployed through GitHub Pages. The project involved learning version control, file management, and web publishing through a reproducible workflow.
+
+
+[View on GitHub →](https://github.com/JebDee/JebDee.github.io)
 :::

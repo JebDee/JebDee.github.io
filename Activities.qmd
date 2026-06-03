@@ -1,17 +1,10 @@
 ---
 title: "Activities"
-format: html
----
-
----
-title: "Activities"
 ---
 
 ## Lawrence University Investment Club
 
 At Lawrence University I founded the Investment Club and have served as both Vice President and President. The work of the club centers on developing rigorous investment research and building stock proposals that can withstand serious scrutiny. Managing risk and guiding peers through the discipline of financial analysis has been among the most formative experiences of my undergraduate years. The club has pushed me to think carefully about evidence, to argue precisely, and to understand how broader economic forces shape individual decisions.
-
----
 
 ## Hockey
 
@@ -20,8 +13,6 @@ Hockey has been the defining thread of my life. Growing up in the Greater Boston
 The experience of junior hockey was inseparable from the long hours spent in the car between rinks and cities. Those drives became their own kind of education. My mother made all of it possible. She spent countless hours in cold arenas and on long roads making sure I could pursue the game at the level I wanted to. Her commitment to my development as a player and as a person is something I carry with me. I now compete as a member of the Lawrence University hockey team. Hockey rewards composure under pressure and punishes carelessness and those lessons have shaped the way I approach academic work and professional challenges alike.
 
 [View my Elite Prospects profile →](https://www.eliteprospects.com/player/504543/joseph-dee)
-
----
 
 ## Personal
 
