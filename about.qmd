@@ -32,18 +32,10 @@ My interests sit at the intersection of data, economics, and history. I am drawn
 
 ---
 
-## Resume
-
-📄 [Download my Resume](resume.pdf)
-
-> *(Upload your resume as `resume.pdf` into the root project folder and this link will work automatically)*
-
-
-
----
 
 ## Contact
 
 - Email: [jebdee20@gmail.com](mailto:jebdee20@gmail.com)
 - LinkedIn: [linkedin.com/in/JebDee](https://www.linkedin.com/in/jeb-dee)
 - GitHub: [github.com/JebDee](https://github.com/JebDee)
+- Phone Number: 978-935-6394

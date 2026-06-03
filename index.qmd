@@ -2,11 +2,12 @@
 title: "Joseph (Jeb) Dee"
 ---
 
-![](images/Jeb%20Summer%2023.jpeg){width=300 fig-align="center"}
-
+![](images/Jeb%20Summer%2023.jpeg){.profile-photo}
 
 I grew up in the Greater Boston area. It taught me early the value of competition and discipline. At Lawrence University, I study quantitative economics and history, with a minor in statistics and data science. As vice president of the student investment fund, I work on risk management and help fellow students build stock proposals that can stand up to scrutiny. It has taught me patience, humility, and empathy.
 
 I am a graduate of Northfield Mount Hermon School in Massachusetts and a member of the Lawrence University hockey team. Those experiences have shaped the way I think: stay composed, do the work, and trust preparation when the moment comes. I am drawn to difficult questions, to making sense of moving parts, and to understanding how larger forces shape individual lives. That interest is what ties together my work in economics, history, and data.
 
+---
 
+[Email](mailto:jebdee20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jeb-dee) · [GitHub](https://github.com/JebDee)

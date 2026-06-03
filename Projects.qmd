@@ -1,35 +1,60 @@
 ---
 title: "Projects"
+format:
+  html:
+    css: styles.css
 ---
 
-Below are selected projects from my coursework in data science and applied economics.
+::: project-card
+### CompMod — Comparable Company Analysis R Package
+*R Package · Finance & Data Science*
 
----
-
-## CompMod — Comparable Company Analysis R Package
-*Data Science / Finance — ADC 405, Spring 2026*
-
-Built a fully documented R package for comparable company (comps) analysis — a core method in equity valuation. The package reads valuation data from Excel, computes key trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics including mean, median, min, and max. Designed to be installable directly from GitHub and usable by anyone conducting stock analysis.
+Built an R package for comparable company analysis. Reads valuation data from Excel, computes trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics across a peer group of firms.
 
 
-[View on GitHub](https://github.com/ADC-405-S26/CompMod)
 
----
+[View on GitHub →](https://github.com/ADC-405-S26/CompMod)
+:::
 
-## SQL Database Analysis
-*Data Science — ADC 405, Spring 2026*
+::: project-card
+### SQL Database Analysis
+*Team Project · Data Science*
 
-Used SQL to query, filter, and analyze structured datasets as part of a team project. Work involved writing relational queries to extract meaningful insights from large data tables, joining across multiple tables, and summarizing findings.
-
-
-[View on GitHub](https://github.com/ADC-405-S26/Project_2_SQL_Team_13)
-
----
-
-## Text Analysis
-*Data Science — ADC 405, Spring 2026*
-
-Applied natural language processing and text analysis techniques to a real-world dataset. Work involved tokenization, sentiment analysis, and visualizing patterns in text data to draw meaningful conclusions.
+Used SQL to query and analyze structured datasets, joining across multiple tables to extract and summarize key insights from large data sources.
 
 
-[View on GitHub](https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_13)
+
+[View on GitHub →](https://github.com/ADC-405-S26/Project_2_SQL_Team_13)
+:::
+
+::: project-card
+### Text Analysis
+*Team Project · Data Science*
+
+Applied NLP techniques including tokenization and sentiment analysis to real-world text data, visualizing patterns and drawing meaningful conclusions.
+
+
+
+[View on GitHub →](https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_13)
+:::
+
+::: project-card
+### "Fading Before the Eye" — Harrison Symposium Paper
+
+
+Presented at Lawrence University's Harrison Symposium. This paper examines the North, Central and South American Exposition of 1885–1886 in New Orleans, arguing that the promise of the New South never reached the city. Drawing on railroad promotional literature, newspaper archives, and historical scholarship, the paper shows how the Illinois Central Railroad used Civil War memory and erased racial history to market New Orleans to northern investors — and why it failed.
+
+
+
+[Download Paper →](Papers/Fading_Before_the_Eye_Final.docx)
+:::
+
+::: project-card
+### "Installment and Escape Plans" — History Podcast Script
+
+
+Written to accompany an actual podcast episode, this script tells the story of Harry Faulkner Irvine — a traveling cash register salesman convicted of embezzlement in London in 1904. Through his story, the piece explores how immigration, labor, and class collided in the transatlantic commercial world of the early twentieth century. Five days after his release from prison, Irvine boarded the Carpathia — the same ship that would later rescue Titanic survivors.
+
+
+[Download Script →](Papers/Final Podcast Script Harry Irvine(1).docx)
+:::

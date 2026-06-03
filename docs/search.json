@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Joseph (Jeb) Dee",
     "section": "",
-    "text": "I grew up in the Greater Boston area. It taught me early the value of competition and discipline. At Lawrence University, I study quantitative economics and history, with a minor in statistics and data science. As vice president of the student investment fund, I work on risk management and help fellow students build stock proposals that can stand up to scrutiny. It has taught me patience, humility, and empathy.\nI am a graduate of Northfield Mount Hermon School in Massachusetts and a member of the Lawrence University hockey team. Those experiences have shaped the way I think: stay composed, do the work, and trust preparation when the moment comes. I am drawn to difficult questions, to making sense of moving parts, and to understanding how larger forces shape individual lives. That interest is what ties together my work in economics, history, and data."
+    "text": "I grew up in the Greater Boston area. It taught me early the value of competition and discipline. At Lawrence University, I study quantitative economics and history, with a minor in statistics and data science. As vice president of the student investment fund, I work on risk management and help fellow students build stock proposals that can stand up to scrutiny. It has taught me patience, humility, and empathy.\nI am a graduate of Northfield Mount Hermon School in Massachusetts and a member of the Lawrence University hockey team. Those experiences have shaped the way I think: stay composed, do the work, and trust preparation when the moment comes. I am drawn to difficult questions, to making sense of moving parts, and to understanding how larger forces shape individual lives. That interest is what ties together my work in economics, history, and data.\n\nEmail · LinkedIn · GitHub"
   },
   {
     "objectID": "about.html#about-me",
@@ -46,14 +46,14 @@
     "href": "about.html#contact",
     "title": "About",
     "section": "Contact",
-    "text": "Contact\n\nEmail: jebdee20@gmail.com\nLinkedIn: linkedin.com/in/JebDee\nGitHub: github.com/JebDee"
+    "text": "Contact\n\nEmail: jebdee20@gmail.com\nLinkedIn: linkedin.com/in/JebDee\nGitHub: github.com/JebDee\nPhone Number: 978-935-6394"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below are selected projects from my coursework in data science and applied economics."
+    "text": "CompMod — Comparable Company Analysis R Package\nR Package · Finance & Data Science\nBuilt an R package for comparable company analysis. Reads valuation data from Excel, computes trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics across a peer group of firms.\nView on GitHub →\n\n\nSQL Database Analysis\nTeam Project · Data Science\nUsed SQL to query and analyze structured datasets, joining across multiple tables to extract and summarize key insights from large data sources.\nView on GitHub →\n\n\nText Analysis\nTeam Project · Data Science\nApplied NLP techniques including tokenization and sentiment analysis to real-world text data, visualizing patterns and drawing meaningful conclusions.\nView on GitHub →\n\n\n“Fading Before the Eye” — Harrison Symposium Paper\nPresented at Lawrence University’s Harrison Symposium. This paper examines the North, Central and South American Exposition of 1885–1886 in New Orleans, arguing that the promise of the New South never reached the city. Drawing on railroad promotional literature, newspaper archives, and historical scholarship, the paper shows how the Illinois Central Railroad used Civil War memory and erased racial history to market New Orleans to northern investors — and why it failed.\nDownload Paper →\n\n\n“Installment and Escape Plans” — History Podcast Script\nWritten to accompany an actual podcast episode, this script tells the story of Harry Faulkner Irvine — a traveling cash register salesman convicted of embezzlement in London in 1904. Through his story, the piece explores how immigration, labor, and class collided in the transatlantic commercial world of the early twentieth century. Five days after his release from prison, Irvine boarded the Carpathia — the same ship that would later rescue Titanic survivors.\nDownload Script →"
   },
   {
     "objectID": "Projects.html#compmod-comparable-company-analysis-r-package",
