@@ -2,3 +2,34 @@
 title: "Projects"
 ---
 
+Below are selected projects from my coursework in data science and applied economics.
+
+---
+
+## CompMod — Comparable Company Analysis R Package
+*Data Science / Finance — ADC 405, Spring 2026*
+
+Built a fully documented R package for comparable company (comps) analysis — a core method in equity valuation. The package reads valuation data from Excel, computes key trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics including mean, median, min, and max. Designed to be installable directly from GitHub and usable by anyone conducting stock analysis.
+
+
+[View on GitHub](https://github.com/ADC-405-S26/CompMod)
+
+---
+
+## SQL Database Analysis
+*Data Science — ADC 405, Spring 2026*
+
+Used SQL to query, filter, and analyze structured datasets as part of a team project. Work involved writing relational queries to extract meaningful insights from large data tables, joining across multiple tables, and summarizing findings.
+
+
+[View on GitHub](https://github.com/ADC-405-S26/Project_2_SQL_Team_13)
+
+---
+
+## Text Analysis
+*Data Science — ADC 405, Spring 2026*
+
+Applied natural language processing and text analysis techniques to a real-world dataset. Work involved tokenization, sentiment analysis, and visualizing patterns in text data to draw meaningful conclusions.
+
+
+[View on GitHub](https://github.com/ADC-405-S26/Project_3_TextAnalysis_Team_13)

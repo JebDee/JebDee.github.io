@@ -38,19 +38,12 @@ My interests sit at the intersection of data, economics, and history. I am drawn
 
 > *(Upload your resume as `resume.pdf` into the root project folder and this link will work automatically)*
 
----
 
-## Projects
-
-Here are a few selected projects. See the [Projects page](Projects.qmd) for more.
-
-- 📊 [Project 1 Title](Projects.qmd)
-- 📈 [Project 2 Title](Projects.qmd)
 
 ---
 
 ## Contact
 
-- 📧 Email: [jebdee20@gmail.com](mailto:jebdee20@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/JebDee](https://www.linkedin.com/in/jeb-dee)
-- 🐙 GitHub: [github.com/JebDee](https://github.com/JebDee)
+- Email: [jebdee20@gmail.com](mailto:jebdee20@gmail.com)
+- LinkedIn: [linkedin.com/in/JebDee](https://www.linkedin.com/in/jeb-dee)
+- GitHub: [github.com/JebDee](https://github.com/JebDee)

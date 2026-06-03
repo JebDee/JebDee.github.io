@@ -46,6 +46,34 @@
     "href": "about.html#contact",
     "title": "About",
     "section": "Contact",
-    "text": "Contact\n\n📧 Email: jebdee20@gmail.com\n💼 LinkedIn: linkedin.com/in/JebDee\n🐙 GitHub: github.com/JebDee"
+    "text": "Contact\n\nEmail: jebdee20@gmail.com\nLinkedIn: linkedin.com/in/JebDee\nGitHub: github.com/JebDee"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects from my coursework in data science and applied economics."
+  },
+  {
+    "objectID": "Projects.html#compmod-comparable-company-analysis-r-package",
+    "href": "Projects.html#compmod-comparable-company-analysis-r-package",
+    "title": "Projects",
+    "section": "CompMod — Comparable Company Analysis R Package",
+    "text": "CompMod — Comparable Company Analysis R Package\nData Science / Finance — ADC 405, Spring 2026\nBuilt a fully documented R package for comparable company (comps) analysis — a core method in equity valuation. The package reads valuation data from Excel, computes key trading multiples (EV/Revenue, EV/EBITDA, P/E), and summarizes peer group statistics including mean, median, min, and max. Designed to be installable directly from GitHub and usable by anyone conducting stock analysis.\nView on GitHub"
+  },
+  {
+    "objectID": "Projects.html#sql-database-analysis",
+    "href": "Projects.html#sql-database-analysis",
+    "title": "Projects",
+    "section": "SQL Database Analysis",
+    "text": "SQL Database Analysis\nData Science — ADC 405, Spring 2026\nUsed SQL to query, filter, and analyze structured datasets as part of a team project. Work involved writing relational queries to extract meaningful insights from large data tables, joining across multiple tables, and summarizing findings.\nView on GitHub"
+  },
+  {
+    "objectID": "Projects.html#text-analysis",
+    "href": "Projects.html#text-analysis",
+    "title": "Projects",
+    "section": "Text Analysis",
+    "text": "Text Analysis\nData Science — ADC 405, Spring 2026\nApplied natural language processing and text analysis techniques to a real-world dataset. Work involved tokenization, sentiment analysis, and visualizing patterns in text data to draw meaningful conclusions.\nView on GitHub"
   }
 ]
